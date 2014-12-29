@@ -18,7 +18,7 @@ http://arduino.cc/en/Guide/Libraries
 
 ## LIDAR-Lite/Arduino Setup
 
-![Fritizing Diagram](http://pulsedlight3d.com/pl3d/wp-content/uploads/2014/11/LIDARLite_MultiSensor_using_PowerEnable_Line_bb.jpg)
+![Fritizing Diagram](http://pl3d.us/ll-multisensor-update.jpg)
 
 All LIDAR-Lite Sensors| Arduino Pins
 :---|:---
